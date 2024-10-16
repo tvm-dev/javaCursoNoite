@@ -19,5 +19,8 @@
 	<classpathentry kind="src" path="CRUD"/>
 	<classpathentry kind="src" path="Laboratorio"/>
 	<classpathentry kind="src" path="Gerente"/>
+	<classpathentry kind="src" path="Interfaces"/>
+	<classpathentry kind="src" path="TryCatch"/>
+	<classpathentry kind="src" path="InterfaceGrafica"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
